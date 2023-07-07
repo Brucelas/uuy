@@ -488,3 +488,7 @@ form {
 .contenedor4{
   padding-left: 2%;
 }
+
+.colorful-label {
+  color: rgb(0, 0, 0);
+}
