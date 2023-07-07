@@ -48,7 +48,7 @@ body{
     height: 80%;
     float: left;
     background-color: beige;
-    color: white;
+    color: rgb(255, 255, 255);
     margin: auto;
 }
 .contenedor3{
@@ -378,7 +378,7 @@ form {
   /* Set a style for all buttons */
   .buttonlog {
     background-color: #04AA6D;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -387,7 +387,7 @@ form {
   }
   #botonlog {
     background-color: #04AA6D;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -396,7 +396,7 @@ form {
   }
   .btnSignUp{
     background-color: #2fb4cc;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -405,7 +405,7 @@ form {
   }
   #botonlogout{
     background-color: #df0808;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
