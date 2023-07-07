@@ -4,11 +4,11 @@
 }
 
 .navbar a.nav-link {
-  color: #000; /* Color de texto negro */
+  color: white; /* Color de texto negro */
 }
 
 body{
-    background-color: #4e1b32;
+    background-color: beige;
     color: #ffffff;
     font-size: 20px;
     text-align: center;
